@@ -5,7 +5,7 @@
 - 💬 Ask me about what our badass engineering team at Benchmark can do for you
 - 📫 How to reach me: [david.drinn@gmail.com](david.drinn@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: There's strong linguistic evidence that Phoenicians settled what's now Germany
+- ⚡ Fun fact: There's strong linguistic evidence that ancient Phoenicians settled what's now Germany
 - 👀 If looking for my CV / Resume: [https://stackoverflow.com/cv/david-scar-drinn](https://stackoverflow.com/cv/david-scar-drinn)
 
 <!--
