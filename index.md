@@ -6,6 +6,7 @@
 - 📫 How to reach me: david.drinn@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: There's strong linguistic evidence that Phoenicians settled what's now Germany
+- 👀 If looking for my CV / Resume: https://stackoverflow.com/cv/david-scar-drinn
 
 <!--
 **david-drinn/david-drinn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
